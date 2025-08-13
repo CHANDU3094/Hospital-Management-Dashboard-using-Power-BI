@@ -1,8 +1,7 @@
 ## Hospital Management Dashboard - Power BI
 
 # 🏥 Overview
-Hospitals generate large amounts of data – patients, doctors, staff, inventory, and finances. Often, this data is stored but not **utilized** to its full potential.  
-This project transforms raw hospital data into **actionable insights** using an interactive **Power BI Dashboard**, telling a complete data-driven story for hospital management.
+Hospitals generate large amounts of data – patients, doctors, staff, inventory, and finances. Often, this data is stored but not **utilized** to its full potential. This project transforms raw hospital data into **actionable insights** using an interactive **Power BI Dashboard**, telling a complete data-driven story for hospital management.
 
 # ✨ Key Features
 - **Multi-Page Dashboard**:
@@ -64,4 +63,4 @@ From this project, you will learn:
 - Creating interactive, business-ready dashboards
 
 # 🚀 Live Demo
-🔗 **[View Dashboard in Power BI Service](PASTE_YOUR_SHAREABLE_LINK_HERE)**
+🔗 **[View Dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNzI2MzIyYmEtM2QzMC00MDA3LTljY2ItMzg3NGY5M2EwY2E5IiwidCI6ImNmMDRkMTExLTAxMDQtNDYyNC1iN2M3LTkxNWJmNjBkYjg4ZSJ9)**
