@@ -1,9 +1,9 @@
-## Hospital Management Dashboard - Power BI
+# Hospital Management Dashboard - Power BI
 
-# 🏥 Overview
+## 🏥 Overview
 Hospitals generate large amounts of data – patients, doctors, staff, inventory, and finances. Often, this data is stored but not **utilized** to its full potential. This project transforms raw hospital data into **actionable insights** using an interactive **Power BI Dashboard**, telling a complete data-driven story for hospital management.
 
-# ✨ Key Features
+## ✨ Key Features
 - **Multi-Page Dashboard**:
   1. **Overview Page** – KPIs, bed availability, upcoming appointments, stock life, and calendar view.
   2. **Patient Page** – Patient selection with dynamic ratings, personal details, and appointment history.
@@ -15,14 +15,14 @@ Hospitals generate large amounts of data – patients, doctors, staff, inventory
 - **Data Modeling** – Optimized relationships, reduced complexity by merging multiple tables.
 - **Data Source Support** – Built with ready to use **Excel** files.
 
-# 🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 - **Power BI Desktop**
 - **Excel** (CSV/Workbook as dataset)
 - **MySQL** (Alternative database source)
 - **Power Query** for ETL (Extract, Transform, Load)
 - **Data Modeling** for optimized relationships
 
-# 📖 Development Process
+## 📖 Development Process
 This dashboard was developed by following a **step-by-step structured process**:
 1. **Importing Data**  
    - Directly import **Excel** Files.
@@ -42,13 +42,13 @@ This dashboard was developed by following a **step-by-step structured process**:
    - Interactive navigation across multiple report pages  
    - Commission calculator for doctors
 
-# 🚀 How to Use
+## 🚀 How to Use
 1. Download `Hospital_Management_Dashboard.pbit`.
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Connect to your dataset.
 4. Enjoy interactive exploration of hospital data.
 
-# 📸 Screenshots
+## 📸 Screenshots
 ![Home](Home.png)
 ![Overview](Overview.png)
 ![Patient](Patient.png)
@@ -56,11 +56,11 @@ This dashboard was developed by following a **step-by-step structured process**:
 ![Hospital](Hospital.png)
 ![Finance](Finance.png)
 
-# 💡 Learning Outcomes
+## 💡 Learning Outcomes
 From this project, you will learn:
 - Professional Power Query transformations
 - Complex data modeling strategies
 - Creating interactive, business-ready dashboards
 
-# 🚀 Live Demo
+## 🚀 Live Demo
 🔗 **[View Dashboard in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiNzI2MzIyYmEtM2QzMC00MDA3LTljY2ItMzg3NGY5M2EwY2E5IiwidCI6ImNmMDRkMTExLTAxMDQtNDYyNC1iN2M3LTkxNWJmNjBkYjg4ZSJ9)**
